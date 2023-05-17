@@ -39,14 +39,14 @@ For details regarding the functionality to be added, refer to the provided proje
 
 ## Links
 
-- Deployed Application: [https://agile-bastion-49042.herokuapp.com/]
-- GitHub Repository: [https://github.com/novasm55]
+- [Deployed Application](https://agile-bastion-49042.herokuapp.com/)
+- [GitHub Repository](https://github.com/novasm55)
 
 ## Screenshots
 
-![Homepage Screenshot](Assets\21-mern-homework-demo-01.gif)
-![Search Page Screenshot](Assets\21-mern-homework-demo-02.gif)
-![Saved Books Page Screenshot](Assets\21-mern-homework-demo-03.gif)
+![Homepage Screenshot](https://github.com/novasm55/book-search-engine/blob/eca06c11b1eea5e89951fd9ad6d90b4552de08d9/Assets/21-mern-homework-demo-01.gif)
+![Search Page Screenshot](https://github.com/novasm55/book-search-engine/blob/eca06c11b1eea5e89951fd9ad6d90b4552de08d9/Assets/21-mern-homework-demo-02.gif)
+![Saved Books Page Screenshot](https://github.com/novasm55/book-search-engine/blob/eca06c11b1eea5e89951fd9ad6d90b4552de08d9/Assets/21-mern-homework-demo-03.gif)
 
 ## License
 
